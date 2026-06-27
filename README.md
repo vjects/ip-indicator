@@ -18,7 +18,6 @@
 - [Installation](#-installation)
 - [Configuration](#-configuration)
 - [Building & Packaging](#-building--packaging)
-- [Support & Donations](#-support--donations)
 - [Copyright & License](#-copyright--license)
 
 ---
@@ -74,11 +73,6 @@ To package the extension for distribution:
 cd ip-indicator
 zip -r ip-indicator@vos.zip . -x "*.git*"
 ```
-
-## ☕ Support & Donations
-
-If you find this extension useful and want to support further development, consider buying me a coffee:
-- **Buy Me a Coffee:** [vjects](https://buymeacoffee.com/vjects)
 
 ---
 

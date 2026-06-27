@@ -4,10 +4,7 @@
   "description": "A sleek, lightweight GNOME Shell extension to monitor and display your public IP address in the panel (using icanhazip.com). Features auto-refresh, customizable color themes, and manual updates. Crafted by VJECTS (vjects.com).",
   "shell-version": [ "45", "46", "47", "48" ],
   "settings-schema": "org.gnome.shell.extensions.ip-indicator",
-  "url": "https://github.com/vjects/ip-indicator",
-  "donations": {
-    "buy-me-a-coffee": "vjects"
-  }
+  "url": "https://github.com/vjects/ip-indicator"
 }
 
 
