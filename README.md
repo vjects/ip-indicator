@@ -42,7 +42,7 @@
 
 ### Official GNOME Extensions Store (Recommended)
 You can install this extension directly from the GNOME Extensions website:
-[IP Indicator on GNOME Extensions](https://extensions.gnome.org/extension/72114/ip-indicator/)
+[IP Indicator on GNOME Extensions](https://extensions.gnome.org/extension/10272/ip-indicator/)
 
 ### Manual Installation
 1. Clone this repository or download the ZIP file:
